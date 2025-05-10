@@ -6,13 +6,13 @@ This is my public learning repo as I dive deep into the world of DevOps.
 ---
 
 ## ?? Start Date
-**April 5, 2025** – The day I ran from Mumbai to Pune and then into DevOps ??
+**April 5, 2025** â€“ The day I ran from Mumbai to Pune and then into DevOps ??
 
 ---
 
-## ??? What’s Inside?
+## ??? Whatâ€™s Inside?
 
-| Module               | What I’m Learning                              |
+| Module               | What Iâ€™m Learning                              |
 |----------------------|-------------------------------------------------|
 | Linux Basics         | Commands, permissions, file systems             |
 | Git & GitHub         | Commits, branches, merges, GitHub Actions       |
@@ -42,15 +42,15 @@ This is my public learning repo as I dive deep into the world of DevOps.
 
 ---
 
-## ?? Let’s Connect
+## ?? Letâ€™s Connect
 
-- ?? LinkedIn: https://linkedin.com/in/yourprofile
-- ?? GitHub: https://github.com/yourusername
+- ?? LinkedIn: https://www.linkedin.com/in/ayush-avduth-a584b627b/
+- ?? GitHub: 
 
 ---
 
-> “To learn DevOps, sometimes you need to sudo your mindset.”  
-> – Me, after deleting /etc by accident
+> â€œTo learn DevOps, sometimes you need to sudo your mindset.â€  
+> â€“ Me, after deleting /etc by accident
 
 ---
 
