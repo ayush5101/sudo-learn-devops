@@ -45,7 +45,7 @@ This is my public learning repo as I dive deep into the world of DevOps.
 ## ?? Let’s Connect
 
 - ?? LinkedIn: https://www.linkedin.com/in/ayush-avduth-a584b627b/
-- ?? GitHub: 
+- ?? GitHub: https://github.com/ayush5101/sudo-learn-devops
 
 ---
 
